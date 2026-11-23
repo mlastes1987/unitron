@@ -1,0 +1,17 @@
+# ROMs, patches, and emulator saves
+*.ngc
+*.ngp
+*.rom
+*.ips
+*.bps
+*.sav
+*.flash
+*.state
+
+# Build and development output
+*.lst
+__pycache__/
+.pytest_cache/
+.venv/
+.scratch/
+build/
